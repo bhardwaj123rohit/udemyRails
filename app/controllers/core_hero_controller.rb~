@@ -1,0 +1,7 @@
+class CoreHeroController < ApplicationController
+  def index
+  end
+
+  def mylove
+  end
+end

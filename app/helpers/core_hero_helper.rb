@@ -1,0 +1,4 @@
+module CoreHeroHelper
+		
+
+end

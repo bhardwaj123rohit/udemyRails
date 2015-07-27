@@ -1,0 +1,7 @@
+<nav>
+<ul>
+	<%= link_to "MyLife", root_path %>
+	<%= link_to "MyLove", mylove_path %>
+</ul>
+
+</nav>
